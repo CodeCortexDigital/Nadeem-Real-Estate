@@ -130,7 +130,7 @@ This project was created in 2 and a half weeks. React Site & API Server was buil
 - Year of construction
 - year of last renovation
 - Living space
-- Number of rooms/bedrooms/bathrooms
+- Number of rooms/ bedrooms/ bathrooms
 - description
 - Status: Available/sold
 - Energy label
